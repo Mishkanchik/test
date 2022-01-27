@@ -1,0 +1,10 @@
+*{box-sizing: border-box;}
+
+
+.h1bgblue{
+
+    background-color: blue;
+    color: white;
+    padding: 15px;
+
+}
